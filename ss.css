@@ -19,17 +19,17 @@
 {
     position:relative;
     margin-top:25px;
-    left:80%;
+    text-align:right;
 }
 
 .footer
 {
-    position:fixed;
+    position:absolute;
     background-color:#eee;
     width:100%;
     border-top: 1px solid #ccc;
     height:5%;
-    margin-top: 550px;
+    margin-top: 565px;
 }
 
 .footer_l
